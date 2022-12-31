@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "QuranApp",
+    "slug": "QuranApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/splashPage/splashImage.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splashPage/quranLogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0c0663",
+      "text": "Adjhfkdhf"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.quran.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
